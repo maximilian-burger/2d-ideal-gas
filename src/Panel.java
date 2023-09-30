@@ -139,7 +139,7 @@ public class Panel
 		field8.setText("75");
 		panel.add(field8);
 		
-	    label9 = new JLabel("Szenarien"); //scenarios
+	    label9 = new JLabel("Szenario"); //scenarios
 		label9.setBounds(10,270,200,30);
 		panel.add(label9);
 		
